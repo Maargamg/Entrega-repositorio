@@ -1,1 +1,19 @@
 # Entrega-repositorio
+- Creao una nueva carpeta "Repositorio".
+- Abro Github y creao un nuevo repositorio "Entrega-repositorio".
+- Copiamos el código SSH.
+- Abrimos Visual Studio Code y pulsamos en view --> comando de paletas--> git clone.
+- Copio el código shh.
+- Hago Git init.
+- Abro un nuevo archivo "index.js" en el escribimos "console.log("hola git");".
+- Hago "git add .", "git commit -m "nuevo archivo" , "git push".
+- Creo una nueva rama llamada "development".
+- Para crear la nueva rama--> git branch development.
+- Para acceder a la nueva rama--> git checkout development.
+- Dentro de la nuva rama hago cambios en el archivo index.js. Hola git--> Hola lemoncode
+- git commit -m "nuevos cambios" , "git push".
+- Vuelvo a la rama main--> git checkout main
+- Hago merge de rama "development" a rama "main"
+- Escribo "git merge development"
+- No me aparecen conflictos, los cambios de la rama "development" se han añadido a "main"
+- git push para subir los cambios.
